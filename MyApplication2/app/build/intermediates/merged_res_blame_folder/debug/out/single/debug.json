@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-hdpi_bad.png.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-hdpi\\bad.png"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\layout_activity_demo2.xml.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\layout\\activity_demo2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-pngs-24:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-pngs-24:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-pngs-24:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-pngs-24:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-hdpi_set.png.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-hdpi\\set.png"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\layout_demo.xml.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\layout\\demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-pngs-24:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\layout_demo3.xml.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\layout\\demo3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\color_my_light_primary.xml.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\color\\my_light_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-pngs-24:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-28:/layout_activity_2.xml.flat",
+        "source": "com.example.myapplication.app-main-30:/layout/activity_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-pngs-24:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Fengxin\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    }
+]

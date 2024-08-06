@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="p">#9C9FF1C7</color>
+    <color name="white">#FAFFFFFF</color>
+    <string name="app_name">起床呀</string>
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+
+        
+         <item name="colorPrimary">@color/p</item>
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+</resources>
